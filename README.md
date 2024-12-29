@@ -18,7 +18,7 @@
 - [Portfolio](https://adityachebrolu.com)
 - [LinkedIn](https://linkedin.com/in/adityachebrolu)
 - [GitHub](https://github.com/aditya-chebrolu)
-- Email: thisisadityachebrolu@gmail.com
+- [mail@adityachebrolu.com](mailto:mail@adityachebrolu.com)
 
 
 Always eager to collaborate on innovative projects and contribute to open-source initiatives!
