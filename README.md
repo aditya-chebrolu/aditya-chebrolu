@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Software Development Engineer 2 | Full Stack Developer
 
-🏢 Currently working at Bajaj Finserv Health Limited, Pune
+🏢 Currently working at Amgen, India
 
 ### 🛠️ Tech Stack
 - Frontend: JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS
